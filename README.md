@@ -3,7 +3,7 @@
 ## Summary
 - This project basically based on the demo transaction API. Here I'm doing load testing on each request of this transaction API using JMeter software.
 
-## Technology used
+## Technology Used
 - Apache Jmeter
 - Visual Studio Code
 
@@ -28,7 +28,7 @@
 6. Payment 200 tk from customer account (Merchant account: 01686606905)
 7. Assert expected customer balance
 
-## JMeter HTML report
+## JMeter HTML Report
 ![jmeter html report](https://github.com/PranabPaulJoy/demo-transaction-api-jmeter/assets/127541697/d3ba13ce-d77a-41ed-b0d3-27217ab7b7c5)
 
 ## API Requests in JMeter
